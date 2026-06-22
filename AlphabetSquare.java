@@ -13,6 +13,6 @@ public class AlphabetSquare {
                 System.out.print((char)(64+j));
             }
         }
-
+            sc.close();
     }
 }

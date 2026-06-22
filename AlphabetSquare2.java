@@ -12,6 +12,6 @@ public class AlphabetSquare2 {
                 System.out.print((char)(64+i)+" ");
             }
         }
-
+    sc.close();
     }
 }

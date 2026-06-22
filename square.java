@@ -12,7 +12,7 @@ public class square {
                 System.out.print("*");
             }
         }
+    sc.close();
 
     }
-    
 }

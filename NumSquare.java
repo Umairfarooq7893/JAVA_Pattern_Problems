@@ -12,5 +12,7 @@ public class NumSquare{
                 System.out.print(j);
             }
         }
+        sc.close();
+
     }
 }

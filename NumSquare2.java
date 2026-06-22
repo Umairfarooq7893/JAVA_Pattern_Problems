@@ -12,5 +12,6 @@ public class NumSquare2{
                 System.out.print(i+" ");
             }
         }
+        sc.close();
     }
 }

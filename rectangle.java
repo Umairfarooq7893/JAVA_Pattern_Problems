@@ -14,7 +14,7 @@ public class rectangle {
                 System.out.print("*");
             }
         }
-    }
+    sc.close();    }
 }
 
 

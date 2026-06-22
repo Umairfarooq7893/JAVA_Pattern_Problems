@@ -18,5 +18,7 @@ public class AlphaNumericTriangle {
             System.out.println();  
         n++;
         }
+        sc.close();
+
     }
 }

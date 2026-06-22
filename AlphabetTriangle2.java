@@ -18,5 +18,7 @@ public class AlphabetTriangle2 {
             System.out.println();  
         n++;
         }
+        sc.close();
+
     }
 }

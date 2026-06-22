@@ -14,5 +14,6 @@ public class NumTriangle {
             System.out.println();  
         n++;
         }
+        sc.close();
     }
 }
